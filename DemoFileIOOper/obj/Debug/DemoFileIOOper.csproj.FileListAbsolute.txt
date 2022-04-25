@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\FileIOperation\DemoFileIOOpeation\DemoFileIOOper\bin\Debug\DemoFileIOOper.exe.config
+C:\Users\ADMIN\source\repos\FileIOperation\DemoFileIOOpeation\DemoFileIOOper\bin\Debug\DemoFileIOOper.exe
+C:\Users\ADMIN\source\repos\FileIOperation\DemoFileIOOpeation\DemoFileIOOper\bin\Debug\DemoFileIOOper.pdb
+C:\Users\ADMIN\source\repos\FileIOperation\DemoFileIOOpeation\DemoFileIOOper\obj\Debug\DemoFileIOOper.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FileIOperation\DemoFileIOOpeation\DemoFileIOOper\obj\Debug\DemoFileIOOper.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\FileIOperation\DemoFileIOOpeation\DemoFileIOOper\obj\Debug\DemoFileIOOper.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FileIOperation\DemoFileIOOpeation\DemoFileIOOper\obj\Debug\DemoFileIOOper.exe
+C:\Users\ADMIN\source\repos\FileIOperation\DemoFileIOOpeation\DemoFileIOOper\obj\Debug\DemoFileIOOper.pdb
